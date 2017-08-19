@@ -1,0 +1,25 @@
+total 8
+drwxr-xr-x  4 didi  staff  136  8 20 00:41 .
+drwxr-xr-x  5 didi  staff  170  8 20 00:40 ..
+-rw-r--r--  1 didi  staff    0  8 20 00:41 1.txt
+-rw-r--r--  1 didi  staff    4  8 20 00:40 readme.txt
+Applications
+C:\Program Files\AssureSec\LCA\config\appconfig2
+Library
+Network
+System
+Users
+Volumes
+bin
+cores
+dev
+etc
+home
+installer.failurerequests
+net
+opt
+private
+sbin
+tmp
+usr
+var
